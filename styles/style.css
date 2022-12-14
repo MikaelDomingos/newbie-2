@@ -1,0 +1,110 @@
+
+*{
+  margin:0;
+  padding: 0;
+}
+body{
+  display: flex;
+  justify-content: center;
+margin: 18%;
+
+}
+
+.sedans{
+  display: flex;
+  flex-direction: column;
+  background-color:#e38525 ;
+  color: white;
+  padding: 40px;
+  border-radius: 10px 0px 0px 10px;
+}
+.imagem1{
+  max-width: 50px;
+  margin-bottom: 25px;
+}
+.sedanscorpo{
+  
+}
+.sedanstitulo{
+  font-size: 23px;
+  margin-bottom: 25px; 
+  
+}
+.sedanstexto{
+  line-height: 22px;
+  margin-bottom: 70px;
+}
+.sedansbutton{
+  padding: 13px;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  background-color: white;
+  color: #e38525;
+}
+
+.suvs{
+  display: flex;
+  flex-direction: column;
+  background-color:#026a72 ;
+  color: white;
+  padding: 40px;
+}
+.imagem2{
+  max-width: 50px;
+  margin-bottom: 25px;
+}
+.suvscorpo{
+  
+}
+.suvstitulo{
+  font-size: 23px;
+  margin-bottom: 25px; 
+}
+.suvstexto{
+  line-height: 22px;
+  margin-bottom: 70px;
+}
+.suvsbutton{
+  padding: 13px;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  background-color: white;
+  color:#026a72;
+}
+
+.luxury{
+  display: flex;
+  flex-direction: column;
+  background-color:#003f3e ;
+  color: white;
+  padding: 40px;
+  border-radius: 0px 10px 10px 0px;
+}
+.imagem3{
+  max-width: 50px;
+  margin-bottom: 25px;
+}
+.luxurycorpo{
+  
+}
+.luxurytitulo{
+  font-size: 23px;
+  margin-bottom: 25px; 
+}
+.luxurytexto{
+  line-height: 22px;
+  margin-bottom: 70px;
+}
+.luxurybutton{
+  padding: 13px;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  background-color: white;
+  color:#003f3e;
+}
